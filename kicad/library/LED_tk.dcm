@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DC-10EWA
+D 10 SEGMENT BAR GRAPH ARRAYS (Kingbright)
+F ../datasheets/RBG1000_RGBG1000_SRBG1000_YBG1000#KIN.pdf
+$ENDCMP
+#
+#End Doc Library
