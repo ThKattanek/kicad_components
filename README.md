@@ -9,3 +9,11 @@ TK_DATASHEETS       [your path]/home/thorsten/Elektronik/KiCad Bauteile/kicad_co
 TK_MOD              [your path]/home/thorsten/Elektronik/KiCad Bauteile/kicad_components/kicad/modules
 
 TK_SYMBOL_DIR       [your path]/home/thorsten/Elektronik/KiCad Bauteile/kicad_components/kicad/library
+
+List of all components
+
+LED
+- 10 SEGMENT BAR GRAPH ARRAYS (Kingbright)
+
+AUDIO
+- SN76489AN Digital Complex Sound Generator
