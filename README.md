@@ -12,8 +12,18 @@ TK_SYMBOL_DIR       [your path]/home/thorsten/Elektronik/KiCad Bauteile/kicad_co
 
 List of all components
 
-LED
+led_tk
 - 10 SEGMENT BAR GRAPH ARRAYS (Kingbright)
 
-AUDIO
+audio_tk
 - SN76489AN Digital Complex Sound Generator
+
+c64_tk
+- C64_Userport
+
+floppy1541_tk
+- MOS VIA 6522
+
+SD Sockets
+- ATTEND_104D-TCA0-R01
+- ATTEND_104D-TCA0-R02
