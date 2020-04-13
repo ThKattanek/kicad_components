@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VIA6522
+F ${TK_DATASHEETS}/mos_6522_preliminary_nov_1977.pdf
+$ENDCMP
+#
+#End Doc Library
