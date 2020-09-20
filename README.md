@@ -28,10 +28,14 @@ floppy1541_tk
 
 - MOS VIA 6522
 
-SD Sockets
+sd_sockets_tk
 
 - ATTEND_104D-TCA0-R01
 - ATTEND_104D-TCA0-R02
+
+transformer_tk
+
+- NF_GERTH_387.12-1
 
 panelizing (from [https://github.com/neubauek/Kicad-Footprints](https://github.com/neubauek/Kicad-Footprints))
 

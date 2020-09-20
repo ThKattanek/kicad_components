@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GERTH_12V_3.6VA
+D Sicherheits-Netztransformator GERTH-387.12-1
+K GERTH 387.12V
+F ${TK_DATASHEETS}/GERTH_DATA_TYPE-387.pdf
+$ENDCMP
+#
+#End Doc Library
