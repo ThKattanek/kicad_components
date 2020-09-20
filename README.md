@@ -37,6 +37,10 @@ transformer_tk
 
 - NF_GERTH_387.12-1
 
+relay_tk
+
+- FTR-LY_Cxxx
+
 panelizing (from [https://github.com/neubauek/Kicad-Footprints](https://github.com/neubauek/Kicad-Footprints))
 
 - mouse-bite-3mm-slot-3way
