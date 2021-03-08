@@ -23,6 +23,7 @@ audio_tk
 c64_tk
 
 - C64_Userport
+- MOS 6510
 
 floppy1541_tk
 

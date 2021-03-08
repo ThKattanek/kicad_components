@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MOS6510
+D 6510 Microprocessor with I/O
+F ${TK_DATASHEETS}/mos_6510_mpu.pdf
+$ENDCMP
+#
 #End Doc Library
