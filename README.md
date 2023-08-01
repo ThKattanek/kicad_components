@@ -22,8 +22,10 @@ audio_tk
 
 c64_tk
 
+- C64_Expansionsport
 - C64_Userport
 - MOS 6510
+- SID_6581
 
 floppy1541_tk
 
@@ -41,6 +43,11 @@ transformer_tk
 relay_tk
 
 - FTR-LY_Cxxx
+
+connectors_tk
+
+- FloppyDrive (3,5 Zoll PC Disk)
+- FTDI_232_RED
 
 panelizing (from [https://github.com/neubauek/Kicad-Footprints](https://github.com/neubauek/Kicad-Footprints))
 
