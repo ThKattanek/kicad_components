@@ -63,7 +63,7 @@
 			)
 		)
 	)
-	(attr smd)
+	(attr smd exclude_from_bom dnp)
 	(fp_rect
 		(start -29.21 -4.445)
 		(end 29.21 4.064)
