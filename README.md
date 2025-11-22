@@ -12,11 +12,11 @@ TK_SYMBOL_DIR       [your path]/kicad_components/kicad/library
 
 List of all components
 
-Hier noch eine gute Quelle für Kicad Components [http://smisioto.no-ip.org/elettronica/kicad/kicad-en.htm](http://smisioto.no-ip.org/elettronica/kicad/kicad-en.htm)
+Here is another good source for Kicad components: [http://smisioto.no-ip.org/elettronica/kicad/kicad-en.htm](http://smisioto.no-ip.org/elettronica/kicad/kicad-en.htm)
 
 button_switch_tk
 
-- KMR231G (Footprint only)
+- KMR231G (Footprint + 3D Model)
 
 led_tk
 
@@ -59,7 +59,7 @@ connectors_tk
 
 - FloppyDrive (3,5 Zoll PC Disk)
 - FTDI_232_RED
-- DIN 5 (Footprint only)
+- DIN 5 (Footprint + 3D Model)
 
 panelizing (from [https://github.com/neubauek/Kicad-Footprints](https://github.com/neubauek/Kicad-Footprints))
 
