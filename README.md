@@ -12,6 +12,12 @@ TK_SYMBOL_DIR       [your path]/kicad_components/kicad/library
 
 List of all components
 
+Hier noch eine gute Quelle für Kicad Components [http://smisioto.no-ip.org/elettronica/kicad/kicad-en.htm](http://smisioto.no-ip.org/elettronica/kicad/kicad-en.htm)
+
+button_switch_tk
+
+- KMR231G (Footprint only)
+
 led_tk
 
 - 10 SEGMENT BAR GRAPH ARRAYS (Kingbright)
@@ -31,6 +37,11 @@ floppy1541_tk
 
 - MOS VIA 6522
 
+ic_tk
+
+- W25Q16JVUXIQ
+- LM293P
+
 sd_sockets_tk
 
 - ATTEND_104D-TCA0-R01
@@ -48,6 +59,7 @@ connectors_tk
 
 - FloppyDrive (3,5 Zoll PC Disk)
 - FTDI_232_RED
+- DIN 5 (Footprint only)
 
 panelizing (from [https://github.com/neubauek/Kicad-Footprints](https://github.com/neubauek/Kicad-Footprints))
 
